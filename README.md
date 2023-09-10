@@ -21,7 +21,7 @@ https://www.youtube.com/@WebDevSimplified
 
 ## live deployment link 
 
-https://florezf90.github.io/Passwordgen/
+https://florezf90.github.io/passwordgen/
 
 ## Screenshot
 
